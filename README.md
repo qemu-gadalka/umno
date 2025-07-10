@@ -1,2 +1,2 @@
-# umno files
-this is umno src and launcher... for auto updater and auto updater src here!
+# !!! OUTDATED!!!
+[NEW PROJECT](https://github.com/qemu-gadalka/umnoLauncher-V2/)
